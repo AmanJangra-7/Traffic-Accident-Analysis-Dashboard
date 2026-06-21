@@ -39,3 +39,10 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+
+## Key Insights
+
+- Turning crashes are the most common accident type.
+- Most accidents occur during peak traffic hours.
+- Weather and road conditions significantly impact accident frequency.
+- Rear-end and angle collisions contribute to a large percentage of crashes.
