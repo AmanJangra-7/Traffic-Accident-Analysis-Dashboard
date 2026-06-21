@@ -1,3 +1,9 @@
+# Traffic Accident Analysis Dashboard
+
+Interactive dashboard built using Streamlit, Pandas and Plotly for analyzing 200K+ traffic accident records.
+
+The dashboard provides insights into accident causes, severity, weather conditions, crash types, road conditions and time-based accident trends.
+
 ## Features
 
 - Dashboard Overview
