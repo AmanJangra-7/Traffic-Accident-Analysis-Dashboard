@@ -26,3 +26,16 @@ The dashboard provides insights into accident causes, severity, weather conditio
 - NumPy
 - Plotly
 - OpenPyXL
+
+  
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
+## Run Dashboard
+
+```bash
+streamlit run app.py
+```
