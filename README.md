@@ -46,3 +46,17 @@ streamlit run app.py
 - Most accidents occur during peak traffic hours.
 - Weather and road conditions significantly impact accident frequency.
 - Rear-end and angle collisions contribute to a large percentage of crashes.
+
+- ## Dashboard Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](screenshot/dashboard%20overview.png)
+
+### Cause Analysis
+![Cause Analysis](screenshot/cause%20analysis.png)
+
+### Crash Type Analysis
+![Crash Type Analysis](screenshot/crash%20type%20analysis.png)
+
+### Road Condition Analysis
+![Road Condition Analysis](screenshot/road%20condition%20analysis.png)
